@@ -1,0 +1,4 @@
+com\Base_Class\Base_Class.class
+com\Singleton\Singleton_Design_Pattern.class
+com\Page_Object_Model\Login.class
+com\Page_Object_Model\Signup_pom.class
